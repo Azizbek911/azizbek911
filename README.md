@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # My favourite languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sintof)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek)](https://github.com/anuraghazra/github-readme-stats)
 
