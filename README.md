@@ -11,3 +11,11 @@
 Here are some ideas to get you started:
 
 -->
+# My account statistics 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sintof&show_icons=true&theme=dracula)
+
+# My favourite languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sintof)](https://github.com/anuraghazra/github-readme-stats)
+
