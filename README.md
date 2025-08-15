@@ -10,7 +10,7 @@
 
 # My CodeWars account 
 
-![My CodeWars stats](https://www.codewars.com/users/notark/badges/large)
+![My CodeWars stats]([https://www.codewars.com/users/notark/badges/large](https://huggingface.co/jumaboyev911))
 
 
 <!--
