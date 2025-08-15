@@ -8,6 +8,11 @@
 ### - 🛑 i won’t stop researching 🛑 
 ### - 🕸  WebDeveloper this is not the end ❌
 
+# My CodeWars account 
+
+![My CodeWars stats](https://www.codewars.com/users/notark/badges/large)
+
+
 <!--
 **Azizbek911/azizbek911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
