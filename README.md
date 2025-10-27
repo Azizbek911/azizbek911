@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbek911&show_icons=true&theme=dracula)
 
-# My favourite languages
-
 
 [![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbek911)](https://github.com/azizbek911/github-readme-stats)
