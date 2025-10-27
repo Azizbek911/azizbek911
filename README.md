@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek911)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Azizbek911&theme=gruvbox&langs_count=8" alt="WakaTime stats">
