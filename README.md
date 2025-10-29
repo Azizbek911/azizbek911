@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # My CodeWars account 
 
-![My CodeWars stats](https://www.codewars.com/users/azizbek911/badges/large)
+![My CodeWars stats](https://www.codewars.com/users/notark/badges/large)
 
 
 # My favourite languages
