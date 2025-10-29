@@ -6,7 +6,7 @@
 ### - 🕸  I'm WebDeveloper 👨🏻‍💻
 ### - 👍🏻 My sites are here 👀 
 ### - 🛑 i won’t stop researching 🛑 
-### - 🕸  WebDeveloper this is not the end ❌
+### - 🕸  WebDeveloping this is not the end ❌
 
 
 
