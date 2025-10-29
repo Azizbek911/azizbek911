@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 [![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbek911)](https://github.com/azizbek911/github-readme-stats)
 
 
-# My CodeWars account 
-
-![My CodeWars stats](https://www.codewars.com/users/notark/badges/large)
-
-
 # My favourite languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek911)](https://github.com/anuraghazra/github-readme-stats)
