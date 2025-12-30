@@ -4,7 +4,7 @@
 
 ### - 👋 Hi everyone, I'm Azizbek
 ### - 🕸️ Backend Developer 👨🏻‍💻
-### - 🚀 Node.js | JavaScript | TypeScript
+### - 🚀 Node.js | JavaScript | TypeScript | PYTHON
 ### - ⚙️ Express.js
 ### - 🤖 Telegram Bots with Telegraf.js
 ### - 🧠 Learning Golang
