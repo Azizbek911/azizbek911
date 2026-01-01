@@ -7,7 +7,7 @@
 ### - 🚀 Node.js | JavaScript | TypeScript | PYTHON
 ### - ⚙️ Express.js
 ### - 🤖 Telegram Bots with Telegraf.js
-### - 🧠 Learning Golang
+### - 🧠 Learning Golang | Blender
 ### - 🛑 I won’t stop researching 🛑
 ### - 🕸️ Web Developing — this is not the end ❌
 
