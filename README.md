@@ -17,7 +17,7 @@
 
 ![My GitHub stats](https://github-readme-stats-sooty-five-44.vercel.app/api?username=Azizbek911&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Azizbek911&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azizbek911&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azizbek911&theme=dracula)
 
