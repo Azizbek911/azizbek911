@@ -15,18 +15,13 @@
 
 # 📊 My account statistics
 
-![My GitHub stats](https://github-readme-stats-sooty-five-44.vercel.app/api?username=Azizbek911&show_icons=true&theme=dracula)
 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azizbek911&theme=dracula)
 
 ---
 
-# 💻 My favourite languages
 
-![Top Langs](https://github-readme-stats-sooty-five-44.vercel.app/api/top-langs/?username=Azizbek911&layout=compact&theme=dracula)
-
----
 
 ## 🛠 Tech Stack
 
